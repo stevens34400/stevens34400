@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 Hi, I’m Steven
 
-<!--
-**stevens34400/stevens34400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer focused on building clean, scalable, product-driven systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Projects
+
+**Team Hippa**   
+🔗 https://team-hippa-ui.vercel.app/home
+
+**(PCBC)**  
+🔗 https://pcbc-pi.vercel.app/
+
+---
+
+### 🧠 Focus Areas
+- Backend systems & architecture  
+- Scalable web platforms  
+- Product-driven engineering with clean UX
+
+---
+
+### 📊 GitHub Activity
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=github)
