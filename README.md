@@ -4,6 +4,11 @@ Software Engineer focused on building clean, scalable, product-driven systems.
 
 ---
 
+### 📊 GitHub Activity
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stevens34400&theme=github)
+
+---
+
 ### 🚀 Current Projects
 
 **Team Hippa**   
@@ -19,7 +24,3 @@ Software Engineer focused on building clean, scalable, product-driven systems.
 - Scalable web platforms  
 - Product-driven engineering with clean UX
 
----
-
-### 📊 GitHub Activity
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=github)
