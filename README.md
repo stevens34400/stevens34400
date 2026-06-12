@@ -1,6 +1,5 @@
-## 👋 Hi, I’m Steven
+## 👋 Hi, I'm Steven
 
-Building Navarii - check us out!
+Building **Navarii** — check us out!
 
-Navarii.co
-
+🔗 [navarii.co](https://navarii.co)
